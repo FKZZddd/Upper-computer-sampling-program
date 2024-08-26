@@ -6,3 +6,5 @@ The program is a 8 channels upper computer program recieveing HEX 8 digit number
 The quick sender block was customized for a lower machine.
 
 Recieving Data through Ethernet is done in JVM packaged inside, and UI and calculation are done thourgh pyQT and Python.
+
+Main file is PythonReciever
